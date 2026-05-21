@@ -36,3 +36,9 @@ O projeto é organizado em classes bem definidas, cada uma com uma responsabilid
 ## Exemplo de Uso
 
 Você pode interagir com o sistema através do terminal. O código de exemplo em `Main.java` demonstra como criar um novo livro, um membro e realizar um empréstimo.
+
+--- 
+
+## 📸 Preview
+
+<img width="394" height="218" alt="image" src="https://github.com/user-attachments/assets/bd75625a-4efd-487a-8647-e2b692fd7d6e" />
